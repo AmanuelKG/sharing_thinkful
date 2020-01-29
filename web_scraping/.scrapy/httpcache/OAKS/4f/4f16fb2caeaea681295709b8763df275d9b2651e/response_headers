@@ -1,0 +1,12 @@
+Cache-Control: max-age=604800
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Mon, 22 Oct 2018 21:50:29 GMT
+Accept-Ranges: bytes
+Etag: "a6b7a40516ad41:0"
+Vary: Accept-Encoding
+X-Request-Duration: Total duration: 00:00:00.0012166; Total non-sql duration: 00:00:00.0012166; Thread execution duration: 00:00:00; Total sql duration: 00:00:00; Total sql command count: 0; Start: 2.4E-06; PostAuthenticateRequest Start: 0.0006313; PostAuthenticateRequest SetCustomPrincipal: 2.8E-06; End Request: 0.0005801;
+Date: Wed, 29 Jan 2020 13:43:57 GMT
+Strict-Transport-Security: max-age=157680000; includeSubDomains; preload
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

@@ -1,0 +1,15 @@
+Server: Sucuri/Cloudproxy
+Date: Sun, 26 Jan 2020 12:10:05 GMT
+Content-Type: text/html; charset=UTF-8
+X-Sucuri-Id: 11010
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Vary: Accept-Encoding,Cookie
+Last-Modified: Sun, 26 Jan 2020 11:50:29 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=3, must-revalidate
+Expires: Sun, 26 Jan 2020 12:10:08 GMT
+Content-Encoding: gzip
+X-Sucuri-Cache: MISS
